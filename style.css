@@ -30,8 +30,7 @@ main {
 }
 
 h2 {
-    margin-bottom: 90px;
-    margin-top: 90px;
+    margin-top: 80px;
     text-align: center;
     color:#bc6c25
 }
@@ -55,3 +54,8 @@ input,button {
     display: block;
     margin: 0 auto;
 }
+
+img {
+    border-style:double;
+}
+
