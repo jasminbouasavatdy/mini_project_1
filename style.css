@@ -11,7 +11,6 @@ header{
     background-color: #283618;
     color: #fefae0;
     padding: 20px
-
 }
 
 nav  a {
@@ -20,4 +19,12 @@ nav  a {
 }
 main {
     margin-top: 100px;
+}
+
+h2 {
+    color:#bc6c25
+}
+
+figcaption {
+    color:#dda15e
 }
